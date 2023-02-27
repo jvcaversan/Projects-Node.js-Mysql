@@ -1,0 +1,1 @@
+docker rm 01container -f
